@@ -1,0 +1,15 @@
+C:\codigos\projetos C#\Order_Summary\Order_Summary\bin\Debug\net7.0\Order_Summary.exe
+C:\codigos\projetos C#\Order_Summary\Order_Summary\bin\Debug\net7.0\Order_Summary.deps.json
+C:\codigos\projetos C#\Order_Summary\Order_Summary\bin\Debug\net7.0\Order_Summary.runtimeconfig.json
+C:\codigos\projetos C#\Order_Summary\Order_Summary\bin\Debug\net7.0\Order_Summary.dll
+C:\codigos\projetos C#\Order_Summary\Order_Summary\bin\Debug\net7.0\Order_Summary.pdb
+C:\codigos\projetos C#\Order_Summary\Order_Summary\obj\Debug\net7.0\Order_Summary.csproj.AssemblyReference.cache
+C:\codigos\projetos C#\Order_Summary\Order_Summary\obj\Debug\net7.0\Order_Summary.GeneratedMSBuildEditorConfig.editorconfig
+C:\codigos\projetos C#\Order_Summary\Order_Summary\obj\Debug\net7.0\Order_Summary.AssemblyInfoInputs.cache
+C:\codigos\projetos C#\Order_Summary\Order_Summary\obj\Debug\net7.0\Order_Summary.AssemblyInfo.cs
+C:\codigos\projetos C#\Order_Summary\Order_Summary\obj\Debug\net7.0\Order_Summary.csproj.CoreCompileInputs.cache
+C:\codigos\projetos C#\Order_Summary\Order_Summary\obj\Debug\net7.0\Order_Summary.dll
+C:\codigos\projetos C#\Order_Summary\Order_Summary\obj\Debug\net7.0\refint\Order_Summary.dll
+C:\codigos\projetos C#\Order_Summary\Order_Summary\obj\Debug\net7.0\Order_Summary.pdb
+C:\codigos\projetos C#\Order_Summary\Order_Summary\obj\Debug\net7.0\Order_Summary.genruntimeconfig.cache
+C:\codigos\projetos C#\Order_Summary\Order_Summary\obj\Debug\net7.0\ref\Order_Summary.dll
